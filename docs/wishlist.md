@@ -3,6 +3,8 @@ layout: page
 title: Wishlist
 permalink: /wishlist/
 ---
+*Last updated {{ site.time | date: '%A, %B %e, %Y'}}*
+
 
 <details markdown="1">
 <summary>Apparel</summary>
@@ -37,6 +39,3 @@ permalink: /wishlist/
 
 
 </details>
-
-
-*Last updated {{ site.time | date: '%A, %B %e, %Y'}}*
