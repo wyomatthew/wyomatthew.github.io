@@ -4,7 +4,7 @@ title: Wishlist
 permalink: /wishlist/
 ---
 
-<details>
+<details markdown="1">
 <summary>Apparel</summary>
 
 
@@ -12,7 +12,7 @@ permalink: /wishlist/
     - size 9.5
 
 
-</details>
+</details markdown="1">
 
 <details>
 <summary>Tech</summary>
@@ -23,11 +23,11 @@ permalink: /wishlist/
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>Furniture</summary>
 
 
-</details>
+</details markdown="1">
 
 <details>
 <summary>Games</summary>
