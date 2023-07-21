@@ -26,4 +26,13 @@ the occasional sharing with others.
     the spillage of those thoughts that I have a hard
     time fitting just in my head.
 
+- Shirt Size?
 
+    Depends on the shirt! For the average shirt, I'd go
+    large for comfort and safety but I prefer medium
+    for higher end shirts and jackets/coats.
+
+- Shoe size?
+
+    9.5 is usually perfect, I round up to a 10 if
+    9.5 is not available.
