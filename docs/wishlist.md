@@ -12,9 +12,9 @@ permalink: /wishlist/
     - size 9.5
 
 
-</details markdown="1">
+</details>
 
-<details>
+<details markdown="1">
 <summary>Tech</summary>
 
 
@@ -27,9 +27,9 @@ permalink: /wishlist/
 <summary>Furniture</summary>
 
 
-</details markdown="1">
+</details>
 
-<details>
+<details markdown="1">
 <summary>Games</summary>
 
 
