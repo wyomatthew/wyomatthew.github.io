@@ -11,8 +11,7 @@ degree in computer science before moving
 to Austin, Texas to work as a software engineer.
 
 I created this blog as a place to organize and archive
-the ideas that excite me for personal future reference and
-the occasional sharing with others.
+the ideas that excite me for personal future reference and occasional sharing with others.
 
 # FAQ
 - Matthew's Swap Space?
