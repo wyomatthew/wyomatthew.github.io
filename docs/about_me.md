@@ -8,7 +8,7 @@ Hi! I'm Matthew, a native Wyomingite who found more
 interest in programming than herding cattle.
 I graduated from the University of Pennsylvania with a 
 degree in computer science before moving
-to Austin, Texas to work as a software engineer.
+to Austin to work as a software engineer.
 
 I created this blog as a place to organize and archive
 the ideas that excite me for personal future reference and occasional sharing with others.
