@@ -21,17 +21,6 @@ the ideas that excite me for personal future reference and occasional sharing wi
     refers to a region of disk that can be treated as
     virtual memory when more memory is allocated than
     can fit into RAM. If you'll work with me through the
-    *loose* metaphore, I mean for this blog to eat up
+    *loose* metaphor, I mean for this blog to eat up
     the spillage of those thoughts that I have a hard
     time fitting just in my head.
-
-- Shirt Size?
-
-    Depends on the shirt! For the average shirt, I'd go
-    large for comfort and safety but I prefer medium
-    for higher end shirts and jackets/coats.
-
-- Shoe size?
-
-    9.5 is usually perfect, I round up to a 10 if
-    9.5 is not available.
